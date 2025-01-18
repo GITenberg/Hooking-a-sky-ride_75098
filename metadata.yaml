@@ -1,0 +1,26 @@
+_repo: Hooking-a-sky-ride_75098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morrissey, Dan
+    gutenberg_agent_id: '57824'
+    url: http://www.gutenberg.org/2009/agents/57824
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75098'
+language: en
+pgterms:marc904: https://archive.org/details/blue-book-v-049-n-02-1929-06
+pgterms:marc905: 20250102005738morrissey
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aChicago, IL :$bThe Consolidated Magazines Corporation, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hooking a sky ride
+url: http://www.gutenberg.org/ebooks/75098
